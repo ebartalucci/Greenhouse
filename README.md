@@ -1,2 +1,2 @@
 # Greenhouse
-Arduino project for small domestic greenhouse, from 'il manuale del maker domestico' Pier Calderan
+Arduino project for small indoor greenhouse, from 'il manuale del maker domestico' Pier Calderan
